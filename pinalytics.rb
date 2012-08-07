@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
-require "ruby-debug"
 require 'redis'
 require 'sinatra'
 require "sinatra/jsonp"
